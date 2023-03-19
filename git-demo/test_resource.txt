@@ -1,4 +1,3 @@
 header
 
-Commit from intelliJ IDEA in demoBranch
-Commit from intelliJ IDEA in master branch
+Commit from intelliJ IDEA in remote demoBranch
