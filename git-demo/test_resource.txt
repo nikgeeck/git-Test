@@ -1,4 +1,3 @@
 header
 
-I update master branch in IntelliJ IDEA.
-I update master branch in GitHub again.
+Commit from intelliJ IDEA
